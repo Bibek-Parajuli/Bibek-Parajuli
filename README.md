@@ -4,7 +4,7 @@
 
 • Full Stack Web Developer with experience building modern web applications.
 
-• Currently working as a Backend Developer at W3Developers.
+• Currently working as a Backend Developer Intern at W3Developers.
 
 • Have a solid understanding of networking fundamentals.
 
